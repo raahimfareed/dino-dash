@@ -12,5 +12,5 @@ To compile
 ```console
 $ cd build
 $ cmake .. && make
-$ ./geometry-dash
+$ ./dino-dash
 ```
